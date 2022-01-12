@@ -4,6 +4,3 @@
 
 
 ### The Current layout of Rummage CNC.
-
-
-[Link](url) and ![Image](src)
