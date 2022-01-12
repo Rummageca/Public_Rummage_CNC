@@ -5,6 +5,8 @@
 ### The Current layout of Rummage CNC.
 
 ![settings](https://user-images.githubusercontent.com/64456948/149126187-28612e09-e399-4cc4-b736-a824ca9f2717.png)
-
-## This software works with arduino Mega2560 and Arduino Due boards
-## All files are available for download. 
+<hr>
+This software works with: Arduino Mega2560 and Arduino Due boards.
+<hr>
+All files are available for download. 
+<hr>
